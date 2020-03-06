@@ -1,0 +1,9 @@
+#
+# from device/samsung/a10s/system.prop
+#
+persist.radio.multisim.config=dsds
+import /mnt/vendor/efs/factory.prop
+ro.multisim.simslotcount=2
+ro.vendor.multisim.simslotcount=2
+
+#
